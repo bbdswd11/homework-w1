@@ -28,4 +28,4 @@
 [Yahoo 奇摩](https://tw.yahoo.com/)
 
 //圖片
-![nkust](nkust.png"高科大")
+![nkust](nkust.png"nkust")
